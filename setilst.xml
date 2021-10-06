@@ -1,12 +1,11 @@
 <?xml version= "1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="setlistStyle.css"?>
-
 <setlist>
     <record1>
         <artist>The Neighbourhood</artist>
         <songtitle>Fallen Star</songtitle>
         <genre>Pop</genre>
-        <year>2021<year>
+        <year>2021</year>
     </record1>
     <record2>
         <artist>Shakira</artist>
