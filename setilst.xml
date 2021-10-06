@@ -1,0 +1,66 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlistStyle.css"?>
+
+<setlist>
+    <record1>
+        <artist>The Neighbourhood</artist>
+        <songtitle>Fallen Star</songtitle>
+        <genre>Pop</genre>
+        <year>2021<year>
+    <record1/>
+    
+    <record2>
+        <artist>Shakira</artist>
+        <songtitle>Poem to a Horse</songtitle>
+        <genre>Rock</genre>
+        <year>2009</year>
+    <record2/>
+    <record3>
+        <artist>Mitski</artist>
+        <songtitle>Liquid Smooth</songtitle>
+        <genre>Rock</genre>
+        <year>2012</year>
+    <record3/>
+    <record4>
+        <artist>Bad Bunny</artist>
+        <songtitle>Lo Siento BB:/</songtitle>
+        <genre>Pop</genre>
+        <year>2021</year>
+    <record4/>
+    <record5>
+        <artist>Foo Fighters</artist>
+        <songtitle>Everlong</songtitle>
+        <genre>Classic Rock</genre>
+        <year>1997</year>
+    <record5/>
+    <record6>
+        <artist>Aphex Twin</artist>
+        <songtitle>Fingerbib</songtitle>
+        <genre>Electronic</genre>
+        <year>1996</year>
+    <record6/>
+    <record7>
+        <artist>Cosmo Pyke</artist>
+        <songtitle>Wish You Were Gona</songtitle>
+        <genre>Alternative</genre>
+        <year>2017</year>
+    <record7/>
+    <record8>
+        <artist>Nicki Minaj</artist>
+        <songtitle>Did It On'em</songtitle>
+        <genre>Hip-Hop</genre>
+        <year>2018</year>
+    <record8/>
+    <record9>
+        <artist>Joan Sebastian</artist>
+        <songtitle>Envidia</songtitle>
+        <genre>Regional Mexican</genre>
+        <year>1993</year>
+    <record9/>
+    <record10>
+        <artist>Clairo</artist>
+        <songtitle>Blouse</songtitle>
+        <genre>Pop</genre>
+        <year>2021</year>
+    <record10/>
+</setlist>
